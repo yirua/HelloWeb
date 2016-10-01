@@ -9,15 +9,15 @@
    <table>
     <tr>
         <td>Name</td>
-        <td>${name}</td>
+        <td>${Name}</td>
     </tr>
     <tr>
         <td>Age</td>
-        <td>${age}</td>
+        <td>${Age}</td>
     </tr>
     <tr>
         <td>ID</td>
-        <td>${id}</td>
+        <td>${Id}</td>
     </tr>
 </table>  
 </body>
